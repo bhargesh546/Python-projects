@@ -1,0 +1,11 @@
+2026-04-14 20:30:51,055 - DEBUG - Start of the program
+2026-04-14 20:30:54,119 - DEBUG - value of guess: heads
+2026-04-14 20:31:05,727 - DEBUG - Start of the program
+2026-04-14 20:31:08,920 - DEBUG - value of guess: heads
+2026-04-14 20:31:08,921 - DEBUG - Value of toss: tails
+2026-04-14 20:31:17,256 - DEBUG - Start of the program
+2026-04-14 20:31:20,237 - DEBUG - value of guess: heads
+2026-04-14 20:31:20,237 - DEBUG - Value of toss: heads
+2026-04-14 20:31:22,326 - DEBUG - Start of the program
+2026-04-14 20:31:25,059 - DEBUG - value of guess: heads
+2026-04-14 20:31:25,059 - DEBUG - Value of toss: tails
